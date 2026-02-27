@@ -1,0 +1,77 @@
+SCENARIO-02 – Laptop Will Not Power On
+
+Business Context
+A Horizon Freight Logistics sales representative reported their corporate laptop would not power on before a scheduled client meeting, risking missed communications and delayed order processing.
+
+Ticket Summary
+Ticket ID: HD-0002
+Category: Hardware Issue
+Impact: Single User
+Urgency: High
+Priority: P1
+Device: Lenovo ThinkPad X1 Carbon (Windows 11)
+
+User Reported Issue
+“My laptop won’t turn on. No lights or display activity when pressing the power button.”
+CompTIA A+ Troubleshooting Methodology
+
+1️⃣ Identify the Problem
+Laptop does not power on.
+No fan noise.
+No LED indicators.
+User reports device was working previous day.
+
+2️⃣ Establish Theory
+Possible causes considered:
+Drained battery
+Faulty power adapter
+Loose charging cable
+Failed battery
+Motherboard failure
+
+Most likely cause:
+Battery fully discharged and not charging due to loose power connection.
+
+3️⃣ Test the Theory
+Verified outlet functionality using alternate device.
+Tested with known-good power adapter.
+Observed charging LED indicator activate.
+Attempted power-on after 5 minutes of charge.
+Device powered on successfully.
+
+Theory confirmed: Power delivery issue due to faulty adapter.
+
+4️⃣ Plan of Action
+Replace defective power adapter.
+Verify battery health in BIOS diagnostics.
+Educate user on cable strain prevention.
+
+5️⃣ Verify Functionality
+System booted successfully.
+Battery charging confirmed.
+No BIOS errors detected.
+User confirmed access to email and CRM system.
+
+6️⃣ Document Findings
+
+Root Cause:
+Faulty power adapter preventing battery charge.
+
+Resolution:
+Replaced adapter and verified system functionality.
+
+Preventative Action:
+Issued new OEM charger and advised proper cable handling.
+
+Time to Resolve: 22 minutes
+
+Business Impact
+Sales operations restored prior to scheduled client engagement.
+
+Skills Demonstrated:
+Hardware diagnostics
+Power troubleshooting
+Adapter validation
+BIOS verification
+Preventative hardware guidance
+Structured A+ troubleshooting methodology
