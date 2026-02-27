@@ -17,9 +17,6 @@ A+ aligned small business IT service desk simulation with workflow enforcement, 
 ### Troubleshooting – Investigation Phase
 ![Workflow Investigation](screenshots/Workflow-investigation.png)
 
-### Troubleshooting – Resolution Phase
-![Workflow Resolution](screenshots/Workflow-resolution.png)
-
 ### Resolution & Closure
 ![Closure](screenshots/lockout-closure.png)
 
