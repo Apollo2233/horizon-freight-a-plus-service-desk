@@ -1,1 +1,74 @@
+SCENARIO-03 – Slow Laptop Due to High Disk Utilization
+Business Context
+A Horizon Freight Logistics warehouse workstation began experiencing severe performance degradation during peak operational hours, impacting inventory management and shipment processing.
 
+Ticket Summary
+Ticket ID: HD-0003
+Category: Performance Issue
+Impact: Single User
+Urgency: Medium
+Priority: P2
+Device: Warehouse Workstation (Windows 11)
+
+User Reported Issue
+“My computer is extremely slow. Applications are freezing and the inventory system takes several minutes to load.”
+CompTIA A+ Troubleshooting Methodology
+
+1️⃣ Identify the Problem
+System slow during login and application launch.
+Task Manager shows disk usage consistently at 100%.
+No visible hardware failure alerts.
+
+2️⃣ Establish Theory
+Possible causes considered:
+Background Windows updates
+Disk nearly full
+Malware or excessive startup programs
+Failing HDD
+
+Most likely cause:
+High disk utilization due to low available storage and excessive startup applications.
+
+3️⃣ Test the Theory
+Checked disk space: Only 4GB free of 256GB.
+Identified large temporary files and outdated system backups.
+Reviewed startup programs — multiple unnecessary applications enabled.
+Ran quick malware scan — no threats detected.
+
+Theory confirmed: Storage saturation causing performance bottleneck.
+
+4️⃣ Plan of Action
+Remove temporary files and outdated backups.
+Uninstall unused applications.
+Disable unnecessary startup programs.
+Schedule disk cleanup maintenance.
+
+5️⃣ Verify Functionality
+Disk space increased to 52GB free.
+Disk utilization reduced to normal range.
+System boot time improved.
+Inventory application loaded within acceptable timeframe.
+User confirmed improved performance.
+
+6️⃣ Document Findings
+Root Cause:
+Low available disk space and excessive startup applications causing sustained high disk utilization.
+
+Resolution:
+Freed storage space and optimized startup configuration.
+
+Preventative Action:
+Scheduled quarterly disk maintenance and user education on storage best practices.
+
+Time to Resolve: 28 minutes
+
+Business Impact
+Warehouse operations restored to normal speed, preventing shipment delays.
+
+Skills Demonstrated:
+Performance troubleshooting
+Disk utilization analysis
+Startup process optimization
+Malware validation
+Preventative maintenance planning
+Structured CompTIA troubleshooting methodology
