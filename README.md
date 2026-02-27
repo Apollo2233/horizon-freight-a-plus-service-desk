@@ -1,5 +1,7 @@
-# horizon-freight-a-plus-service-desk
-A+ aligned small business IT service desk simulation with workflow enforcement, KB integration, and metrics
+# Horizon Freight Logistics – IT Service Desk (CompTIA A+ Simulation)
+This project simulates an internal IT Service Desk for a 25-employee hybrid logistics company.  
+It demonstrates structured troubleshooting using the CompTIA A+ 6-step methodology, workflow enforcement, knowledge base integration, root cause documentation, and metrics tracking.
+The goal of this project is to model real-world help desk operations in a small business environment.
 
 ---
 
