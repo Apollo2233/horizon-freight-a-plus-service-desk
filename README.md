@@ -35,3 +35,12 @@ The goal of this project is to model real-world help desk operations in a small 
 ![Laptop Closure](screenshots/laptop-no-power-closure.png)
 
 ---
+## ⚙️ Slow Laptop Performance – Visual Proof
+
+### Troubleshooting Workflow
+![Slow Laptop Workflow](screenshots/slow-laptop-workflow.png)
+
+### Resolution & Closure
+![Slow Laptop Closure](screenshots/slow-laptop-closure.png)
+
+---
