@@ -26,3 +26,12 @@ The goal of this project is to model real-world help desk operations in a small 
 ![Dashboard](screenshots/Dashboard.png)
 
 ---
+## 💻 Laptop Not Powering On – Visual Proof
+
+### Troubleshooting Workflow
+![Laptop Workflow](screenshots/laptop-no-power-workflow.png)
+
+### Resolution & Closure
+![Laptop Closure](screenshots/laptop-no-power-closure.png)
+
+---
