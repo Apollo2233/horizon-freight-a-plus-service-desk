@@ -4,7 +4,9 @@ It demonstrates structured troubleshooting using the CompTIA A+ 6-step methodolo
 The goal of this project is to model real-world help desk operations in a small business environment.
 
 ---
+## 🧠 CompTIA A+ 6-Step Troubleshooting Model
 
+![Troubleshooting Workflow](diagrams/comptia-troubleshooting-flow.png)
 ## 📸 Account Lockout – Visual Walkthrough
 
 ### Ticket Queue
